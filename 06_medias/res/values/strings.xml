@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">06_medias</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbl_bt_take_picture">Take and show a picture</string>
+    <string name="title_activity_take_and_show_picture">TakeAndShowPictureActivity</string>
+    <string name="lbl_shot">Shot!!!</string>
+    <string name="lbl_description">Here it is shown the image you just shot!</string>
+    <string name="lbl_bt_mic">Record Audio</string>
+    <string name="lbl_bt_video">Video</string>
+    <string name="title_activity_record_audio">RecordAudioActivity</string>
+    <string name="lbl_bt_record">Record</string>
+    <string name="lbl_bt_play_audio">Play last recorded audio</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="lbl_bt_record_video">Record video</string>
+    <string name="lbl_fotodefault">Gravar foto na pasta Default</string>
+    <string name="lbl_gravarvideomedia6">Gravar vídeo na pasta Media06</string>
+    <string name="title_activity_foto_default">FotoDefaultActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_video_medias06">VideoMedias06Activity</string>
+
+</resources>
