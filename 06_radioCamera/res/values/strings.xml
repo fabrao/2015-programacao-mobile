@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">06_radioCamera</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbl_foto">Foto</string>
+    <string name="lbl_video">Vídeo</string>
+    <string name="lbl_gravar">Gravar</string>
+
+</resources>
