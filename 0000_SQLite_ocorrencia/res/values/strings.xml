@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">0000_SQLite_ocorrencia</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbl_inserir">Inserir Ocorrência</string>
+    <string name="lbl_exibir">Exibir Ocorrências</string>
+    <string name="title_activity_adicionar_main">AdicionarMainActivity</string>
+    <string name="lbl_nome">Nome da Ocorrência</string>
+    <string name="lbl_inserirNome">Inserir Nome</string>
+    <string name="lbl_descricao">Descrição da Ocorrência</string>
+    <string name="lbl_descricaoOcorrencia">Insira a descrição da ocorrência</string>
+    <string name="lbl_salvar">Salvar</string>
+    <string name="title_activity_visualizar_main">VisualizarMainActivity</string>
+    <string name="lbl_delete">Deletar</string>
+    <string name="lbl_show">Show Item</string>
+
+</resources>
