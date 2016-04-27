@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Prova1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_item1">Item 1</string>
+    <string name="lbl_item2">Item 2</string>
+    <string name="lbl_twAvaliacao">Avaliação 1 - Parte 1</string>
+    <string name="lbl_twAluno">Aluno: Renan V. Fabrão</string>
+    <string name="lbl_btExecutar">EXECUTAR QUESTÃO 2</string>
+    <string name="lbl_btAbrirQuestao">ABRIR QUESTÃO 3</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="lbl_twQ3e4">Questões 3 e 4</string>
+    <string name="lbl_edInsiraNome">Insira o nome</string>
+    <string name="lbl_rdMasc">Masculino</string>
+    <string name="lbl_rdFem">Feminino</string>
+    <string name="lbl_btSalvar">SALVAR</string>
+    <string name="title_activity_terceira">TerceiraActivity</string>
+    <string name="lbl_dados">DADOS:</string>
+
+</resources>
