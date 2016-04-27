@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">06_PosicaoNSLO</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbl_verificarPosicao">Verificar Posição</string>
+    <string name="lbl_voceesta">Você está a:</string>
+    <string name="lbl_linhaeq">da Linha do Equador</string>
+    <string name="lbl_ea">e a</string>
+    <string name="lbl_meridiano">da Linha do Meridiano</string>
+    <string name="lbl_verificar">verificar posição</string>
+
+</resources>
