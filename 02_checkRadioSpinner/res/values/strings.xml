@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">02_checkRadioSpinner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbl_inserir_nome">Inserir nome</string>
+    <string name="lbl_pesquisa">Pesquisa de interesse</string>
+    <string name="lbl_faixa1">0 a 17 anos</string>
+    <string name="lbl_faixa2">18 a 34 anos</string>
+    <string name="lbl_faixa3">Acima de 35 anos</string>
+    <string name="lbl_gravar">Gravar pesquisa</string>
+
+</resources>
