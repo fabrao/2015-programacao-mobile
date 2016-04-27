@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mobbank_client"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CreateAccountActivity"
+            android:label="@string/title_activity_create_account" >
+        </activity>
+        <activity
+            android:name=".GetBalanceActivity"
+            android:label="@string/title_activity_get_balance" >
+        </activity>
+        <activity
+            android:name=".DepositActivity"
+            android:label="@string/title_activity_deposit" >
+        </activity>
+        <activity
+            android:name=".WithdrawActivity"
+            android:label="@string/title_activity_withdraw" >
+        </activity>
+        <activity
+            android:name=".CloseAccountActivity"
+            android:label="@string/title_activity_close_account" >
+        </activity>
+        <activity
+            android:name=".ShowAccountTransactionsActivity"
+            android:label="@string/title_activity_show_account_transactions" >
+        </activity>
+        <activity
+            android:name=".ShowAllTransactionsActivity"
+            android:label="@string/title_activity_show_all_transactions" >
+        </activity>
+        <activity
+            android:name=".ShowAllAccountsActivity"
+            android:label="@string/title_activity_show_all_accounts" >
+        </activity>
+    </application>
+
+</manifest>

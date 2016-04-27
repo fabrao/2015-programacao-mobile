@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MobBank-client</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbl_bt_create">Create new account</string>
+    <string name="lbl_bt_getBalance">Get account balance</string>
+    <string name="lbl_bt_deposit">Deposit</string>
+    <string name="lbl_bt_withdraw">Withdraw</string>
+    <string name="lbl_bt_close">Close account</string>
+    <string name="lbl_bt_accountTransaction">Show account transactions</string>
+    <string name="lbl_bt_allTransactions">Show all transactions</string>
+    <string name="lbl_bt_allAccounts">Show all accounts</string>
+    <string name="title_activity_create_account">CreateAccountActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_hint_name">Insert client name</string>
+    <string name="lbl_hint_balance">Insert client initial balance</string>
+    <string name="title_activity_get_balance">GetBalanceActivity</string>
+    <string name="lbl_hint_insert_account_number">Insert the account number</string>
+    <string name="lbl_bt_search">Search</string>
+    <string name="title_activity_deposit">DepositActivity</string>
+    <string name="lbl_hint_value">insert the value</string>
+    <string name="title_activity_withdraw">WithdrawActivity</string>
+    <string name="title_activity_close_account">CloseAccountActivity</string>
+    <string name="title_activity_show_account_transactions">ShowAccountTransactionsActivity</string>
+    <string name="title_activity_show_all_transactions">ShowAllTransactionsActivity</string>
+    <string name="title_activity_show_all_accounts">ShowAllAccountsActivity</string>
+    <string name="lbl_bt_update">Update</string>
+
+</resources>
