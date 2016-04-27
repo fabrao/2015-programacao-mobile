@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">03_actionBar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_item1">Item 1</string>
+    <string name="lbl_item2">Item 2</string>
+    <string name="lbl_test_action">Testando a ActionBar!!!!</string>
+    <string name="lbl_filter">Filter By</string>
+    <string name="lbl_keyword">Keyword</string>
+    <string name="lbl_popularity">Popularity</string>
+
+</resources>
