@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.avaliacao02_02.MainActivity" >
+    <item android:id="@+id/item1" android:title="@string/lbl_qtirarfoto"></item>
+    <item android:id="@+id/item2" android:title="@string/lbl_qgravarvideo"></item>
+
+</menu>
