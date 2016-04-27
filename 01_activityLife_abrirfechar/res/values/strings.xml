@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">01_activityLife_abrirfechar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbl_abrir_one">Abrir OneActivity</string>
+    <string name="lbl_abrir_two">Abrir TwoActivity</string>
+    <string name="lbl_fechar">Fechar</string>
+    <string name="title_activity_one">OneActivity</string>
+    <string name="lbl_ac_one">This is the activity ONE!!</string>
+    <string name="title_activity_two">TwoActivity</string>
+    <string name="lbl_two">This is activity TWO!!!</string>
+    <string name="lbl_main">This is the MAIN activity!!!</string>
+
+</resources>
