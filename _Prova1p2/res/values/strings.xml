@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">_Prova1p2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbl_modificar">MODIFICAR MEUS DADOS</string>
+    <string name="lbl_nome">Nome:</string>
+    <string name="lbl_sexo">Sexo:</string>
+    <string name="lbl_idade">Idade:</string>
+    <string name="title_activity_modificar">ModificarActivity</string>
+    <string name="lbl_modificarDados">Modificar meus dados</string>
+    <string name="lbl_masc">Masculino</string>
+    <string name="lbl_fem">Feminino</string>
+    <string name="lbl_digNome">digite seu nome</string>
+    <string name="lbl_digIdade">digite sua idade</string>
+    <string name="lbl_salvar">Salvar</string>
+
+</resources>
