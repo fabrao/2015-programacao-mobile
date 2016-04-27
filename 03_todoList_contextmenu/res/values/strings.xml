@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">01_activity_forResult</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbl_add_task">Add task to do</string>
+    <string name="title_activity_task_add">TaskAddActivity</string>
+    <string name="lbl_add_new_task">Add a new task TO DO</string>
+    <string name="lbl_taskName">Task name*:</string>
+    <string name="lbl_task">insert task name</string>
+    <string name="lbl_taskDescription">Task description (optional):</string>
+    <string name="lbl_desc">Insert task description</string>
+    <string name="lbl_add">Add Task</string>
+    <string name="lbl_show">Show details</string>
+    <string name="lbl_delete">Delete task</string>
+    <string name="lbl_totop">Move task to top</string>
+    <string name="lbl_toend">Move task to button</string>
+
+</resources>
