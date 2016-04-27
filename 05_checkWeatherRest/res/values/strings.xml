@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">05_checkWeatherRest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbl_update">Update</string>
+    <string name="lbl_connected">Connected?</string>
+    <string name="lbl_internet">Internet?</string>
+    <string name="lbl_weather">Weather</string>
+
+</resources>
