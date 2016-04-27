@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<muralStore>
+    <murais>
+        <id>1</id>
+        <mensagens>
+            <conteudo>a aula estah qse no fim</conteudo>
+            <de>andre</de>
+            <para>alunos</para>
+        </mensagens>
+        <mensagens>
+            <conteudo>hsjjsjso fim</conteudo>
+            <de>andre</de>
+            <para>alunos</para>
+        </mensagens>
+        <nome>programacaomovel</nome>
+    </murais>
+    <murais>
+        <id>2</id>
+        <nome>fernandosucre</nome>
+    </murais>
+    <name>store</name>
+</muralStore>
