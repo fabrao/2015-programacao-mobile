@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">06_QuenteFrio</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbl_joguinho">Joguinho do Quente-Frio</string>
+    <string name="lbl_entreCoordenadas">Entre com as Coordenadas: </string>
+    <string name="lbl_latitude">"Latitude: "</string>
+    <string name="lbl_longitude">"Longitude: "</string>
+    <string name="lbl_hintLatitude">numero da latitude</string>
+    <string name="lbl_hintLongitude">numero da longitude</string>
+    <string name="lbl_iniciar">Iniciar</string>
+    <string name="title_activity_jogo">JogoActivity</string>
+    <string name="lbl_tracking">Start Tracking!</string>
+
+</resources>
