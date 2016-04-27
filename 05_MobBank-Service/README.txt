@@ -1,0 +1,1 @@
+This project depends on libs from Jersey-1.18.
