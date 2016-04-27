@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">04_One2Nine</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbl_bt_start">Start Game</string>
+    <string name="lbl_bt_score">View scores</string>
+    <string name="lbl_game">In this game, you need to count from 1 until 9  by pressing the buttons in the correct order as fast as you can. The numbers show up with different labels!</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="lbl_none">empty</string>
+    <string name="title_activity_escore">EscoreActivity</string>
+    <string name="lbl_l_bestTime">Best time was:</string>
+    <string name="lbl_played">Played by:</string>
+    <string name="title_activity_record_name">RecordNameActivity</string>
+    <string name="lbl_playername">Player Name:</string>
+    <string name="lbl_newRecord">NEW RECORD</string>
+    <string name="lbl_save">Save Name</string>
+    <string name="lbl_anonymous">Anonymous</string>
+    <string name="lbl_records">RECORDS</string>
+    <string name="lbl_first">FIRST</string>
+    <string name="lbl_second">SECOND</string>
+    <string name="lbl_secondTime">Second time was:</string>
+    <string name="lbl_third">THIRD</string>
+    <string name="lbl_thirdTime">Third time was:</string>
+    <string name="lbl_clearRecords">Clear Records</string>
+    <string name="lbl_back">Back</string>
+
+</resources>
