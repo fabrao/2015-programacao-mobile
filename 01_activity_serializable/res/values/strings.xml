@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">01_activity_serializable</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbl_calcular">Calcular o IMC</string>
+    <string name="lbl_nome">insira o nome</string>
+    <string name="lbl_idade">insira a idade</string>
+    <string name="lbl_altura">insira a altura</string>
+    <string name="lbl_peso">insira o peso</string>
+    <string name="lbl_calcularIMC">Calcular</string>
+    <string name="title_activity_dados_confirmar">DadosConfirmarActivity</string>
+    <string name="lbl_confirmarDados">Confirmar dados</string>
+    <string name="lbl_confirmar_calcular">Confirmar e calcular</string>
+
+</resources>
